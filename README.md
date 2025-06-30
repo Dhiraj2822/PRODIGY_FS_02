@@ -215,7 +215,7 @@ If you encounter issues:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is provided as-is for educational and development purposes.
 
 ## Acknowledgments
 
